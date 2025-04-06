@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hi, i&#39;m logan.</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on hi, i&#39;m logan.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi, I&#39;m Logan!</title>
+      <link>http://localhost:1313/home/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/welcome/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Science provides an understanding of a universal experience, and arts provides a universal understanding of a personal experience.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;gt; Mae Jemison&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;about-me&#34;&gt;about me.&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m a final-year Physics undergraduate at North Carolina State University and an &lt;strong&gt;incoming Ph.D. student in Astronomy &amp;amp; Astrophysics&lt;/strong&gt; at the University of Arizona, starting in Fall 2025.&lt;/p&gt;
+&lt;p&gt;I currently research the hydrodynamics, nucleosynthesis, and observables of core-collapse supernovae with Dr. Carla Fröhlich. Broadly, &lt;strong&gt;I&amp;rsquo;m interested in the life, death, and remnants of massive stars&lt;/strong&gt;, and enjoy using computational methods to explore the border between theory and observation.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;em&gt;Science provides an understanding of a universal experience, and arts provides a universal understanding of a personal experience.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;gt; Mae Jemison&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;about-me&#34;&gt;about me.&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m a final-year Physics undergraduate at North Carolina State University and an &lt;strong&gt;incoming Ph.D. student in Astronomy &amp;amp; Astrophysics&lt;/strong&gt; at the University of Arizona, starting in Fall 2025.&lt;/p&gt;
+&lt;p&gt;I currently research the hydrodynamics, nucleosynthesis, and observables of core-collapse supernovae with Dr. Carla Fröhlich. Broadly, &lt;strong&gt;I&amp;rsquo;m interested in the life, death, and remnants of massive stars&lt;/strong&gt;, and enjoy using computational methods to explore the border between theory and observation.&lt;/p&gt;
+&lt;p&gt;When I&amp;rsquo;m not writing code, you can find me working on a variety of science communication, mentorship, and outreach projects. I currently serve as the Science Advisor for the &lt;a href=&#34;https://www.lspace.asu.edu/mission-concept-academy&#34;&gt;NASA L&amp;rsquo;SPACE Mission Concept Academy&lt;/a&gt; as a NASA LEAP Intern.&lt;/p&gt;
+&lt;p&gt;You can read more about my &lt;a href=&#34;http://localhost:1313/research&#34;&gt;research&lt;/a&gt;, find useful &lt;a href=&#34;http://localhost:1313/resources&#34;&gt;resources&lt;/a&gt; for undergraduates and non-traditional students, SOMETHING HERE.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;get-in-touch&#34;&gt;get in touch.&lt;/h2&gt;
+&lt;p&gt;Interested in collaborating, brainstorming, or chatting about science? Email me at &lt;strong&gt;&lt;a href=&#34;#ZgotmplZ&#34;&gt;lawhite5 [at] ncsu.edu&lt;/a&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;a href=&#34;#ZgotmplZ&#34;&gt;lawhite [at] arizona.edu&lt;/a&gt;&lt;/strong&gt;, I&amp;rsquo;d love to network with you!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
