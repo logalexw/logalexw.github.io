@@ -8,7 +8,7 @@ color = "" #color from the theme settings
 
 *Science provides an understanding of a universal experience, and arts provides a universal understanding of a personal experience.*
 
-&nsbp;*\> Mae Jemison*
+*\> Mae Jemison*
 
 ***
 
