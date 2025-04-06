@@ -80,7 +80,7 @@ pagination.pagerSize = 5
     title = "hi, i'm logan."
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "logan a. white's personal portfolio"
       owner = ""
       keywords = ""
       copyright = ""
