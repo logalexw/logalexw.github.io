@@ -4,7 +4,7 @@ showFullContent = true
 readingTime = false
 hideComments = true
 color = "" #color from the theme settings
-weight = 1 
+weight = 3
 +++
 
 Core-collapse supernovae (CCSNe; SNe IIp) serve as the endpoints of the long lives of massive stars and the formative moments of young compact objects, such as black holes and neutron stars. In the data driven world of multimessenger astronomy, exploring how observations connect to theory-driven simulations is key to our understanding. **I am currently developing a comprehensive statistical analysis of lightcurve models to investigate supernovae simulation accuracy** with Carla Fröhlich at North Carolina State University and Brandon Barker at Los Alamos National Lab. 

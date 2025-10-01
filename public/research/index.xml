@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://logalexw.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>updated opacities for rapid rotators</title>
+      <link>https://logalexw.github.io/research/ester/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://logalexw.github.io/research/ester/</guid>
+      <description>&lt;p&gt;ESTER (Evolution STEllaire en Rotation; Rieutord et al. 2016) is the first open-source, multi-dimensional stellar structure code. I am working with Jane Pratt and Maxime Stuck as a GEM Fellow at Lawrence Livermore National Laboratory to update the &amp;lsquo;microphysics&amp;rsquo; of ESTER, with a focus on rapidly rotating stars. &lt;strong&gt;I recently implemented new, high-resolution OPLIB opacity tables (Farag et al. 2024) into the existing physics module&lt;/strong&gt;, expanding the number of opacity mixtures available in ESTER, improving interpolation methods, and enabling the future use of user-provided opacity tables.&lt;/p&gt;</description>
+      <content>&lt;p&gt;ESTER (Evolution STEllaire en Rotation; Rieutord et al. 2016) is the first open-source, multi-dimensional stellar structure code. I am working with Jane Pratt and Maxime Stuck as a GEM Fellow at Lawrence Livermore National Laboratory to update the &amp;lsquo;microphysics&amp;rsquo; of ESTER, with a focus on rapidly rotating stars. &lt;strong&gt;I recently implemented new, high-resolution OPLIB opacity tables (Farag et al. 2024) into the existing physics module&lt;/strong&gt;, expanding the number of opacity mixtures available in ESTER, improving interpolation methods, and enabling the future use of user-provided opacity tables.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>bridging the supernovae theory gap</title>
       <link>https://logalexw.github.io/research/ccsne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

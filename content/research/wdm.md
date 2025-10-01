@@ -4,7 +4,7 @@ showFullContent = true
 readingTime = false
 hideComments = true
 color = "" #color from the theme settings
-weight = 2
+weight = 4
 +++
 
 
